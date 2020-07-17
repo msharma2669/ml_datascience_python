@@ -8,4 +8,4 @@ def mult(x,y):
     pass
 
 def div(x,y):
-    pass
+    return x/y
